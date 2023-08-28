@@ -14,6 +14,10 @@
     top: 0;
 }
 
+#developer-info .text-container {
+    position: relative;
+}
+
 #developer-info a {
     text-decoration: none;
     color: white;
