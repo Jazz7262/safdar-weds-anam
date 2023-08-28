@@ -6,6 +6,7 @@ import {
     faLinkedin,
     faWhatsapp,
     faSkype,
+    faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 import "../styles/DeveloperInfo.css";

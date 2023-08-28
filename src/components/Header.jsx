@@ -9,10 +9,10 @@ function Header() {
                 alt="bismillah"
                 className="poster"
             />
-            <h3>
+            <h4>
                 Begin With The Name Of Allaah, The Most Benificient And The Most
                 Merciful
-            </h3>
+            </h4>
 
             {/* <h4 className="mt-4">
                 Under the spirutual patronage of Peer-O-Murshid:
